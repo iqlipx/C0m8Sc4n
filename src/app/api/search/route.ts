@@ -34,7 +34,7 @@ export async function GET(request: NextRequest) {
     if (!data.lines || !data.count) {
       return NextResponse.json(
         {
-          error: 'Unexpected API response format',
+          error: 'Nothing Found',
           details: 'The API response did not contain the expected fields.'
         },
         { status: 500 }
