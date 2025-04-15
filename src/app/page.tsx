@@ -107,7 +107,7 @@ export default function Home() {
       <header className="bg-gray-800 py-4 px-6 flex justify-between items-center shadow-md">
         <div className="flex items-center space-x-2">
           <ShieldCheckIcon size={24} className="text-red-500" />
-          <h1 className="text-xl font-bold">Data Breach Lookup</h1>
+          <h1 className="text-xl font-bold">C0m8Sc4n</h1>
         </div>
         <div className="flex items-center space-x-2">
           <DatabaseIcon size={18} className="text-blue-400" />
